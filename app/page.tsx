@@ -37,7 +37,6 @@ export default function Home() {
             </a>{" "}
             center.
           </p>
-          <h1>lEARNING BRANCHES</h1>
         </div>
       </main>
     </div>
